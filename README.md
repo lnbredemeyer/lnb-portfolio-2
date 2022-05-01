@@ -1,6 +1,6 @@
 # lnb-portfolio-2
 
-- 
+- A personal portfolio of some of the work I've done!
 
 ## Built with:
 * HTML
@@ -13,8 +13,6 @@
 * THEY are presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
 * WHEN they click one of the links in the navigation
 * THEN the UI scrolls to the corresponding section
-* WHEN they click on the link to the section about my work
-* THEN the UI scrolls to a section with titled images of the developer's applications
 * WHEN they are presented with the developer's first application
 * THEN the application's image should be larger in size than the others
 * WHEN they click on the images of the applications
@@ -23,7 +21,7 @@
 * THEN they are presented with a responsive layout that adapts to my viewport
 
 ## Screenshots:
-![alt tag](https://user-images.githubusercontent.com/99215212/159144406-5ff6c377-362c-4271-b110-28ab475761c1.png) 
+![alt tag](https://user-images.githubusercontent.com/99215212/166131158-e57479bb-63e4-4fc0-9eb9-aae5b5eeecda.png) 
 
 ## Links:
 * To view the website, please click: https://lnbredemeyer.github.io/lnb-portfolio-2/

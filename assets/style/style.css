@@ -1,6 +1,6 @@
 :root {
     --dark-blue: #161853;
-    --mid-blue: #292C6D;
+    --light-blue: #7e85ff;
     --light-pink: #FAEDF0;
     --dark-pink: #EC255A;
     --white: #ffffff;
@@ -31,6 +31,15 @@ hr.rounded {
     background-color: var(--light-pink);
 }
 
+.hero-head{
+    background: var(--light-pink);
+}
+
 #footer{
     padding: 0.5rem;
+}
+
+#coding-work{
+    padding: 4rem 1.5rem;
+    background: var(--light-pink);
 }
