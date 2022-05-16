@@ -21,7 +21,11 @@
 * THEN they are presented with a responsive layout that adapts to my viewport
 
 ## Screenshots:
-![alt tag](https://user-images.githubusercontent.com/99215212/166131158-e57479bb-63e4-4fc0-9eb9-aae5b5eeecda.png) 
+### Desktop view
+![alt tag](https://user-images.githubusercontent.com/99215212/168624818-96199c1f-a35e-489a-b1e0-09e75c9a4ed9.png) 
+
+### Mobile view
+![alt tag](https://user-images.githubusercontent.com/99215212/168624958-d6375398-8db1-462f-a1c1-574f2f6f87aa.png) 
 
 ## Links:
 * To view the website, please click: https://lnbredemeyer.github.io/lnb-portfolio-2/
