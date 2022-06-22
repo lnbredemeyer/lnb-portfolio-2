@@ -22,10 +22,10 @@
 
 ## Screenshots:
 ### Desktop view
-![alt tag](https://user-images.githubusercontent.com/99215212/168624818-96199c1f-a35e-489a-b1e0-09e75c9a4ed9.png) 
+![alt tag](https://user-images.githubusercontent.com/99215212/174924024-dd2999c0-4212-4f6d-a59e-38e102ff1603.png) 
 
 ### Mobile view
-![alt tag](https://user-images.githubusercontent.com/99215212/168624958-d6375398-8db1-462f-a1c1-574f2f6f87aa.png) 
+![alt tag](https://user-images.githubusercontent.com/99215212/174924090-34877841-9252-4386-857c-36502733ebb5.png) 
 
 ## Links:
 * To view the website, please click: https://lnbredemeyer.github.io/lnb-portfolio-2/
